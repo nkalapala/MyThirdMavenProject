@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e74f495-a55d-450d-a7cc-5928abc1c6ff" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ForLoopCreate/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopCreate/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopCreate/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopCreate/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopCreate/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopCreate/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopCreate/ForLoopCreate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopCreate/out/production/ForLoopCreate/love/programming/ForLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopCreate/src/love/programming/ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopCreateNumber1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopCreateNumber1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopCreateNumber1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopCreateNumber1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopCreateNumber1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopCreateNumber1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopCreateNumber1/ForLoopCreateNumber1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopCreateNumber1/out/production/ForLoopCreateNumber1/love/programming/ForLoopNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopCreateNumber1/src/love/programming/ForLoopLeft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopHomeCheck/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopHomeCheck/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopHomeCheck/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopHomeCheck/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopHomeCheck/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopHomeCheck/ForLoopHomeCheck.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopHomeCheck/out/production/ForLoopHomeCheck/love/programming/ForLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopHomeCheck/src/love/programming/ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopHomeWork/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopHomeWork/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopHomeWork/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopHomeWork/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopHomeWork/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopHomeWork/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopHomeWork/ForLoopHomeWork.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopHomeWork/out/production/ForLoopHomeWork/META-INF/ForLoopHomeWork.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopHomeWork/out/production/ForLoopHomeWork/love/programming/ForLoopStar1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopHomeWork/src/love/programming/ForLoopStar1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopNumber1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopNumber1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopNumber1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopNumber1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopNumber1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopNumber1/ForLoopNumber1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopNumber1/out/production/ForLoopNumber1/love/programming/ForLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopNumber1/src/love/programming/ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopNumber2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopNumber2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopNumber2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopNumber2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopNumber2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopNumber2/ForLoopNumber2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopNumber2/out/production/ForLoopNumber2/love/programming/ForLoopLast.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopNumber2/src/love/programming/ForLoopLast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeDeclareStrings/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeDeclareStrings/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeDeclareStrings/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeDeclareStrings/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeDeclareStrings/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeDeclareStrings/HomeDeclareStrings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeDeclareStrings/out/production/HomeDeclareStrings/love/programming/HomeStrings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeDeclareStrings/src/love/programming/HomeStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkStringObjects/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkStringObjects/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkStringObjects/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkStringObjects/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkStringObjects/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkStringObjects/HomeWorkStringObjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkStringObjects/out/production/HomeWorkStringObjects/love/programming/WorkStringObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorkStringObjects/src/love/programming/WorkStringObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAccessModifiers/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAccessModifiers/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAccessModifiers/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAccessModifiers/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAccessModifiers/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAccessModifiers/Package1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAccessModifiersTest/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAccessModifiersTest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAccessModifiersTest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAccessModifiersTest/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAccessModifiersTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAccessModifiersTest/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAccessModifiersTest/JavaAccessModifiersTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAccessModifiersTest/out/production/JavaAccessModifiersTest/META-INF/JavaAccessModifiersTest.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAccessModifiersTest/out/production/JavaAccessModifiersTest/package1/ChildTestClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAccessModifiersTest/out/production/JavaAccessModifiersTest/package1/MainClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAccessModifiersTest/out/production/JavaAccessModifiersTest/package1/NonChildTestClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAccessModifiersTest/out/production/JavaAccessModifiersTest/package1/TestClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAccessModifiersTest/out/production/JavaAccessModifiersTest/package2/ChildTestDifferentPackage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAccessModifiersTest/out/production/JavaAccessModifiersTest/package2/NonChildTestDifferentPackage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAccessModifiersTest/src/package1/ChildTestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAccessModifiersTest/src/package1/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAccessModifiersTest/src/package1/NonChildTestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAccessModifiersTest/src/package1/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAccessModifiersTest/src/package2/ChildTestDifferentPackage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAccessModifiersTest/src/package2/NonChildTestDifferentPackage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaArrayPractice/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaArrayPractice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaArrayPractice/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaArrayPractice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaArrayPractice/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaArrayPractice/JavaArrayPractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaArrayPractice/src/ArrayPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaArrayTablesHomework/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaArrayTablesHomework/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaArrayTablesHomework/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaArrayTablesHomework/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaArrayTablesHomework/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaArrayTablesHomework/JavaArrayTablesHomework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaArrayTablesHomework/out/production/JavaArrayTablesHomework/love/programming/ArrayTables.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaArrayTablesHomework/src/love/programming/ArrayTables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaConstructorPractice" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaInheritencePractice/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaInheritencePractice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaInheritencePractice/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaInheritencePractice/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaInheritencePractice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaInheritencePractice/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaInheritencePractice/JavaInheritencePractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaInheritencePractice/out/production/JavaInheritencePractice/love/programming/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaInheritencePractice/out/production/JavaInheritencePractice/love/programming/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaInheritencePractice/out/production/JavaInheritencePractice/love/programming/GermanSheperd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaInheritencePractice/out/production/JavaInheritencePractice/love/programming/Husky.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaInheritencePractice/out/production/JavaInheritencePractice/love/programming/MyMainClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaInheritencePractice/src/love/programming/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaInheritencePractice/src/love/programming/AnimalAbstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaInheritencePractice/src/love/programming/AnimalInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaInheritencePractice/src/love/programming/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaInheritencePractice/src/love/programming/GermanSheperd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaInheritencePractice/src/love/programming/Husky.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaInheritencePractice/src/love/programming/MyMainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaMethodChaining/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaMethodChaining/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaMethodChaining/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaMethodChaining/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaMethodChaining/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaMethodChaining/JavaMethodChaining.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaMethodChaining/out/production/JavaMethodChaining/love/programming/MethodChaining.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaMethodChaining/src/love/programming/MethodChaining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaMethodDefinition/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaMethodDefinition/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaMethodDefinition/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaMethodDefinition/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaMethodDefinition/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaMethodDefinition/JavaMethodDefinition.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaMethodDefinition/src/love/programming/MethodDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaMethodOverLoading/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaMethodOverLoading/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaMethodOverLoading/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaMethodOverLoading/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaMethodOverLoading/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaMethodOverLoading/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaMethodOverLoading/JavaMethodOverLoading.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaMethodOverLoading/out/production/JavaMethodOverLoading/love/programming/MethodAddition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaMethodOverLoading/out/production/JavaMethodOverLoading/love/programming/MethodOverLoading.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaMethodOverLoading/src/love/programming/MethodAddition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaMethodOverLoading/src/love/programming/MethodOverLoading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStringConcatenation/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStringConcatenation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStringConcatenation/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStringConcatenation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStringConcatenation/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStringConcatenation/JavaStringConcatenation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStringConcatenation/out/production/JavaStringConcatenation/love/programming/StringConcatenation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStringConcatenation/src/love/programming/StringConcatenation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStringImmutability/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStringImmutability/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStringImmutability/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStringImmutability/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStringImmutability/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStringImmutability/JavaStringImmutability.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStringImmutability/out/production/JavaStringImmutability/love/programming/StringImmutability.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStringImmutability/src/love/programming/StringImmutability.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaUnderstandingNull/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaUnderstandingNull/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaUnderstandingNull/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaUnderstandingNull/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaUnderstandingNull/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaUnderstandingNull/JavaUnderstandingNull.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaUnderstandingNull/out/production/JavaUnderstandingNull/love/programming/UnderstandingNull.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaUnderstandingNull/src/love/programming/UnderstandingNull.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWrapperClasses/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWrapperClasses/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWrapperClasses/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWrapperClasses/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWrapperClasses/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWrapperClasses/JavaWrapperClasses.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWrapperClasses/out/production/JavaWrapperClasses/love/programming/WrapperClasses.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaWrapperClasses/src/love/programming/WrapperClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstMavenProject/src/test/java/feature/first.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySecondProject/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySecondProject/out/production/MySecondProject/META-INF/MySecondProject.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySecondProject/src/love/programming/MyCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySecondProject/src/love/programming/MyMainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySecondProject/src/love/programming/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaArithmeticOperators/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaArithmeticOperators/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasicControlFlow/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBasicControlFlow/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasicControlFlow/out/production/JavaBasicControlFlow/love/programming/BasicControlFlow.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBasicControlFlow/out/production/JavaBasicControlFlow/love/programming/BasicControlFlow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasicControlFlow/src/love/programming/BasicControlFlow.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBasicControlFlow/src/love/programming/BasicControlFlow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaCommentsProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaCommentsProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaVariableScopeExample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaVariableScopeExample/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyDoggyProject" beforeDir="false" afterPath="$PROJECT_DIR$/../MyDoggyProject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyHomeAdd/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyHomeAdd/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyHomeAdd/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyHomeAdd/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyHomeWorkTwo" beforeDir="false" afterPath="$PROJECT_DIR$/../MyHomeWorkTwo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySecondProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MySecondProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySecondProject/out/production/MySecondProject/love/programming/MyMainClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MySecondProject/out/production/MySecondProject/love/programming/MyMainClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySecondProject/out/production/MySecondProject/love/programming/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MySecondProject/out/production/MySecondProject/love/programming/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySecondProject/src/MyMainClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySecondProject/src/Person.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="321">
+              <caret line="65" column="51" lean-forward="true" selection-start-line="65" selection-start-column="51" selection-end-line="65" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/feature/third.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinition/ThirdFeatureStepDefinition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="119" selection-start-line="13" selection-start-column="119" selection-end-line="13" selection-end-column="119" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#481#482#0" expanded="true" />
+                <element signature="e#550#551#0" expanded="true" />
+                <element signature="e#658#659#0" expanded="true" />
+                <element signature="e#697#698#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/feature/ThirdFeatureStepDefinition.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/feature/third.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/stepDefinition/ThirdFeatureStepDefinition.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="15" />
+    <option name="y" value="30" />
+    <option name="width" value="1890" />
+    <option name="height" value="960" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MyThirdMavenProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyThirdMavenProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyThirdMavenProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyThirdMavenProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyThirdMavenProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyThirdMavenProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyThirdMavenProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyThirdMavenProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyThirdMavenProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyThirdMavenProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554734136773" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Scenerio:Access Facebook.com" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <option name="FILE_PATH" value="C:\Users\narma\IdeaProjects\MyThirdMavenProject" />
+      <option name="GLUE" value="stepDefinition" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="MyThirdMavenProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e74f495-a55d-450d-a7cc-5928abc1c6ff" name="Default Changelist" comment="" />
+      <created>1554675493302</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554675493302</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Scenerio_Access_Facebook_com - 2019.04.07 at 23h 50m 40s.xml">
+      <configuration name="Scenerio:Access Facebook.com" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenerio_Access_Facebook_com - 2019.04.07 at 23h 51m 23s.xml">
+      <configuration name="Scenerio:Access Facebook.com" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenerio_Access_Facebook_com - 2019.04.07 at 23h 51m 57s.xml">
+      <configuration name="Scenerio:Access Facebook.com" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="10" y="20" width="1260" height="640" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.25" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32874015" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.32874015" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/feature/ThirdFeatureStepDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/feature/third.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="65" column="51" lean-forward="true" selection-start-line="65" selection-start-column="51" selection-end-line="65" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepDefinition/ThirdFeatureStepDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="119" selection-start-line="13" selection-start-column="119" selection-end-line="13" selection-end-column="119" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#550#551#0" expanded="true" />
+            <element signature="e#658#659#0" expanded="true" />
+            <element signature="e#697#698#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
